@@ -1,0 +1,11 @@
+{
+    "hello": "Hello",
+    "home": {
+        "title": "Home",
+        "description": "This is the home page"
+    },
+    "about": {
+        "title": "About",
+        "description": "This is the about page"
+    }
+}

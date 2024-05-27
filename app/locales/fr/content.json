@@ -1,0 +1,11 @@
+{
+    "hello": "Hola",
+    "home": {
+        "title": "Inicio",
+        "description": "Bienvenido a la página de inicio"
+    },
+    "about": {
+        "title": "Acerca de",
+        "description": "Bienvenido a la página de acerca de"
+    }
+}
